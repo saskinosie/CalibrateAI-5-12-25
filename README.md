@@ -15,3 +15,6 @@
 
 ![wcd create cluster - step 1](img/wcd-create-cluster-1.jpg)
 ![wcd create cluster - step 2](img/wcd-create-cluster-2.jpg)
+ * Collect your REST endpointe and ADMIn API key.
+![wcd create cluster - step 1](img/wcd-create-cluster-3.png)
+![wcd create cluster - step 2](img/wcd-create-cluster-4.png)
